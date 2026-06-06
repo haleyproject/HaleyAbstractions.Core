@@ -15,8 +15,8 @@
 	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	  <Product>Haley Abstractiosn Core</Product>
 	  <Version>$(HaleyAbstractionsCoreVersion)</Version>
-	  <PackageProjectUrl>https://github.com/TheHaleyProject/HaleyAbstractions.Core</PackageProjectUrl>
-	  <RepositoryUrl>https://github.com/TheHaleyProject/HaleyAbstractions.Core</RepositoryUrl>
+	  <PackageProjectUrl>$(ProjectBaseUrl)Abstractions.Core</PackageProjectUrl>
+	  <RepositoryUrl>$(ProjectBaseUrl)Abstractions.Core</RepositoryUrl>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <IncludeSymbols>true</IncludeSymbols>
 	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>

@@ -20,7 +20,7 @@
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <IncludeSymbols>true</IncludeSymbols>
 	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-	  <PackageReleaseNotes>Pilot</PackageReleaseNotes>
+	  <PackageReleaseNotes>Add shared PageRequest, Page&lt;T&gt;, and DateRange models.</PackageReleaseNotes>
 	  <Configurations>Debug;Release</Configurations>
   </PropertyGroup>
 
